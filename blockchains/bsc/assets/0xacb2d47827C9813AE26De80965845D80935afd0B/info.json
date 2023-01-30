@@ -1,0 +1,10 @@
+{
+    "name": "MacaronSwap Token",
+    "symbol": "MCRN",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xacb2d47827C9813AE26De80965845D80935afd0B"
+}

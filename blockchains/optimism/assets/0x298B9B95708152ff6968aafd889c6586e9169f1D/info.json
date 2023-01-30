@@ -1,0 +1,10 @@
+{
+    "name": "Synth sBTC",
+    "symbol": "sBTC",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x298B9B95708152ff6968aafd889c6586e9169f1D"
+}

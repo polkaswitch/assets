@@ -1,0 +1,10 @@
+{
+    "name": "Litecoin Token",
+    "symbol": "LTC",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xfA520efC34C81bfC1E3DD48b7fE9fF326049f986"
+}

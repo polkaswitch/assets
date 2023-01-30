@@ -1,0 +1,10 @@
+{
+    "name": "Celo native",
+    "symbol": "CELO",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x1e33dBA7cd47e79C4385Ba39442A693B910a0A8a"
+}

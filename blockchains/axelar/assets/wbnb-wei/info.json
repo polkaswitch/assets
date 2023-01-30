@@ -1,0 +1,10 @@
+{
+    "name": "axlWBNB",
+    "symbol": "axlWBNB",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "wbnb-wei"
+}

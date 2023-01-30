@@ -1,0 +1,10 @@
+{
+    "name": "Float Bank",
+    "symbol": "BANK",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab"
+}

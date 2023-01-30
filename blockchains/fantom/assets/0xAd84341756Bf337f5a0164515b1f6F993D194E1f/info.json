@@ -1,0 +1,10 @@
+{
+    "name": "Fantom USD",
+    "symbol": "fUSD",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f"
+}

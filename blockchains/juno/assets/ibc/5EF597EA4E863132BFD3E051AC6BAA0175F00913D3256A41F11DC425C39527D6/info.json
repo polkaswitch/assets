@@ -1,0 +1,10 @@
+{
+    "name": "axlWBTC",
+    "symbol": "axlWBTC",
+    "type": "ibc",
+    "decimals": 8,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "ibc/5EF597EA4E863132BFD3E051AC6BAA0175F00913D3256A41F11DC425C39527D6"
+}

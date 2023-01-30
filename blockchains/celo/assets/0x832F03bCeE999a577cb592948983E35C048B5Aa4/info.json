@@ -1,0 +1,10 @@
+{
+    "name": "Duniapay West African CFA franc",
+    "symbol": "cXOF",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x832F03bCeE999a577cb592948983E35C048B5Aa4"
+}

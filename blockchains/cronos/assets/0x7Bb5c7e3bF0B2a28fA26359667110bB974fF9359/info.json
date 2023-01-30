@@ -1,0 +1,10 @@
+{
+    "name": "TerraUSD",
+    "symbol": "UST",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x7Bb5c7e3bF0B2a28fA26359667110bB974fF9359"
+}

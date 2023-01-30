@@ -1,0 +1,10 @@
+{
+    "name": "Polkadot Token",
+    "symbol": "DOT",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xabc732f6f69a519F6d508434481376B6221eb7d5"
+}

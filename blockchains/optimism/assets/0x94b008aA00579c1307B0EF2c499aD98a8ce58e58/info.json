@@ -1,0 +1,10 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "type": "evm",
+    "decimals": 6,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58"
+}

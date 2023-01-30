@@ -1,0 +1,10 @@
+{
+    "name": "Data Economy Index",
+    "symbol": "DATA/Index",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1"
+}

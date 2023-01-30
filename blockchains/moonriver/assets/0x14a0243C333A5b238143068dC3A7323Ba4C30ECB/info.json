@@ -1,0 +1,10 @@
+{
+    "name": "Avalanche Token",
+    "symbol": "AVAX",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB"
+}

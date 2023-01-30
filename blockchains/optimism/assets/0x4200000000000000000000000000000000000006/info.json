@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x4200000000000000000000000000000000000006"
+}

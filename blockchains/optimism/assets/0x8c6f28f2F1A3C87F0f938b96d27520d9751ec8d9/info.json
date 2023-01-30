@@ -1,0 +1,10 @@
+{
+    "name": "Synth sUSD",
+    "symbol": "sUSD",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9"
+}

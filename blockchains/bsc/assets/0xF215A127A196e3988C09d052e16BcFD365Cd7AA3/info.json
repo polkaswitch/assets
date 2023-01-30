@@ -1,0 +1,10 @@
+{
+    "name": "Mirror TSLA Token",
+    "symbol": "mTSLA",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xF215A127A196e3988C09d052e16BcFD365Cd7AA3"
+}

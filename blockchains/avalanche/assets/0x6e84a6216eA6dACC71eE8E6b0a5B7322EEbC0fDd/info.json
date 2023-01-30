@@ -1,0 +1,10 @@
+{
+    "name": "JoeToken",
+    "symbol": "JOE",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd"
+}

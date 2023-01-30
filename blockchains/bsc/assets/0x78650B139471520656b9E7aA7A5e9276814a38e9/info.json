@@ -1,0 +1,10 @@
+{
+    "name": "Standard BTC Hashrate Token",
+    "symbol": "BTCST",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x78650B139471520656b9E7aA7A5e9276814a38e9"
+}

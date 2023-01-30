@@ -1,0 +1,10 @@
+{
+    "name": "Bitcoin Cash Token",
+    "symbol": "BCH",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf"
+}

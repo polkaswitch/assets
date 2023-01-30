@@ -1,0 +1,10 @@
+{
+    "name": "Cosmos Token",
+    "symbol": "ATOM",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x0Eb3a705fc54725037CC9e008bDede697f62F335"
+}

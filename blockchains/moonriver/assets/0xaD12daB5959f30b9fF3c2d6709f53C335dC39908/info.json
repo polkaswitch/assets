@@ -1,0 +1,10 @@
+{
+    "name": "Fantom Token",
+    "symbol": "FTM",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xaD12daB5959f30b9fF3c2d6709f53C335dC39908"
+}

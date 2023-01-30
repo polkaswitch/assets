@@ -1,0 +1,10 @@
+{
+    "name": "SushiSwap",
+    "symbol": "SUSHI",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2"
+}

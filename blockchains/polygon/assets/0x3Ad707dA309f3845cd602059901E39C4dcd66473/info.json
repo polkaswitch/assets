@@ -1,0 +1,10 @@
+{
+    "name": "ETH 2x Flexible Leverage Index",
+    "symbol": "ETH2X-FLI-P",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x3Ad707dA309f3845cd602059901E39C4dcd66473"
+}

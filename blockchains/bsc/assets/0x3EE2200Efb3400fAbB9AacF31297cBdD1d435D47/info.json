@@ -1,0 +1,10 @@
+{
+    "name": "Cardano Token",
+    "symbol": "ADA",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "The Doge NFT",
+    "symbol": "DOG",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xBAac2B4491727D78D2b78815144570b9f2Fe8899"
+}

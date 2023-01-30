@@ -1,0 +1,10 @@
+{
+    "name": "axlLINK",
+    "symbol": "axlLINK",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "link-wei"
+}

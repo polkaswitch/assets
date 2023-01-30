@@ -1,0 +1,10 @@
+{
+    "name": "Trust Wallet",
+    "symbol": "TWT",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x4B0F1812e5Df2A09796481Ff14017e6005508003"
+}

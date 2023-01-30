@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped XRP",
+    "symbol": "WXRP",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x39fBBABf11738317a448031930706cd3e612e1B9"
+}

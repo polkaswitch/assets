@@ -1,0 +1,10 @@
+{
+    "name": "Chain Link",
+    "symbol": "LINK",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x5947BB275c521040051D82396192181b413227A3"
+}

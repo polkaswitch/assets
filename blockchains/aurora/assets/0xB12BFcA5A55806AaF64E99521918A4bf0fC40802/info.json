@@ -1,0 +1,10 @@
+{
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "type": "evm",
+    "decimals": 6,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802"
+}

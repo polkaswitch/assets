@@ -1,0 +1,10 @@
+{
+    "name": "Tezos Token",
+    "symbol": "XTZ",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x16939ef78684453bfDFb47825F8a5F714f12623a"
+}

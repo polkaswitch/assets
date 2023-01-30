@@ -1,0 +1,10 @@
+{
+    "name": "Interest Bearing Ether v2",
+    "symbol": "ibETHv2",
+    "type": "evm",
+    "decimals": 8,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xeEa3311250FE4c3268F8E684f7C87A82fF183Ec1"
+}

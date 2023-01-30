@@ -1,0 +1,10 @@
+{
+    "name": "Poly Frax",
+    "symbol": "polyFRAX",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x104592a158490a9228070E0A8e5343B499e125D0"
+}

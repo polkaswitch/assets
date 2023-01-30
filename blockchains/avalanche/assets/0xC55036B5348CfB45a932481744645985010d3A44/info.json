@@ -1,0 +1,10 @@
+{
+    "name": "Wine Shares",
+    "symbol": "WINE",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xC55036B5348CfB45a932481744645985010d3A44"
+}

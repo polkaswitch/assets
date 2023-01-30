@@ -1,0 +1,10 @@
+{
+    "name": "BNB Token",
+    "symbol": "BNB",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x868892CCcEdbfF0B028F3b3595205Ea91b99376B"
+}

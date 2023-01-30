@@ -1,0 +1,10 @@
+{
+    "name": "Frapped USDT",
+    "symbol": "fUSDT",
+    "type": "evm",
+    "decimals": 6,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x049d68029688eAbF473097a2fC38ef61633A3C7A"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd"
+}

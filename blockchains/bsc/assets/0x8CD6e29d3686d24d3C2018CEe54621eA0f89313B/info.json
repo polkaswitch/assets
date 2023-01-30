@@ -1,0 +1,10 @@
+{
+    "name": "Nuls",
+    "symbol": "NULS",
+    "type": "evm",
+    "decimals": 8,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B"
+}

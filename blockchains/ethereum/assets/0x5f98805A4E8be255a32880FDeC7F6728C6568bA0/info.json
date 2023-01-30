@@ -1,0 +1,10 @@
+{
+    "name": "LUSD Stablecoin",
+    "symbol": "LUSD",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0"
+}

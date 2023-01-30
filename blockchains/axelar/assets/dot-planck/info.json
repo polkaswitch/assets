@@ -1,0 +1,10 @@
+{
+    "name": "axlDOT",
+    "symbol": "axlDOT",
+    "type": "ibc",
+    "decimals": 10,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "dot-planck"
+}

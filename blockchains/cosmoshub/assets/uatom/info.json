@@ -1,0 +1,10 @@
+{
+    "name": "Cosmos Token",
+    "symbol": "ATOM",
+    "type": "ibc",
+    "decimals": 6,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "uatom"
+}

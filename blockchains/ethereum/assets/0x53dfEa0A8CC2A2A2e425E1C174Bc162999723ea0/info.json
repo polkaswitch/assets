@@ -1,0 +1,10 @@
+{
+    "name": "Jarvis Synthetic Swiss Franc",
+    "symbol": "jCHF",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x53dfEa0A8CC2A2A2e425E1C174Bc162999723ea0"
+}

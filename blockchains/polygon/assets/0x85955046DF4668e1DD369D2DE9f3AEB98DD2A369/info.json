@@ -1,0 +1,10 @@
+{
+    "name": "Defi Pulse Index",
+    "symbol": "DPI",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369"
+}

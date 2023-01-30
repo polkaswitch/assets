@@ -1,0 +1,10 @@
+{
+    "name": "Lyra Token",
+    "symbol": "LYRA",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x01BA67AAC7f75f647D94220Cc98FB30FCc5105Bf"
+}

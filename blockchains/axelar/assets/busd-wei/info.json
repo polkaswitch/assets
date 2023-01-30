@@ -1,0 +1,10 @@
+{
+    "name": "axlBUSD",
+    "symbol": "axlBUSD",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "busd-wei"
+}
