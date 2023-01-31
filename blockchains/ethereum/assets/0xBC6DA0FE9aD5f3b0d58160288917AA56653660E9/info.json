@@ -1,0 +1,10 @@
+{
+    "name": "Alchemix USD",
+    "symbol": "alUSD",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9"
+}

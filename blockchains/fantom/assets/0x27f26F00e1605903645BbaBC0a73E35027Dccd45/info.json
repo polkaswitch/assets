@@ -1,0 +1,10 @@
+{
+    "name": "fBNB",
+    "symbol": "fBNB",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x27f26F00e1605903645BbaBC0a73E35027Dccd45"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Pundi X Token",
+    "symbol": "PUNDIX",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38"
+}

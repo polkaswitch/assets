@@ -1,0 +1,10 @@
+{
+    "name": "Interest-Bearing BTC",
+    "symbol": "ibBTC",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xc4E15973E6fF2A35cC804c2CF9D2a1b817a8b40F"
+}

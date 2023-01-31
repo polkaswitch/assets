@@ -1,0 +1,10 @@
+{
+    "name": "ARPA Token",
+    "symbol": "ARPA",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xEE800B277A96B0f490a1A732e1D6395FAD960A26"
+}

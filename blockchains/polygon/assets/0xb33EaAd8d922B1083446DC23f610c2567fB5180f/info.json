@@ -1,0 +1,10 @@
+{
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f"
+}

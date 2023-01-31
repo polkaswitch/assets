@@ -1,0 +1,10 @@
+{
+    "name": "axlRAI",
+    "symbol": "axlRAI",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "rai-wei"
+}

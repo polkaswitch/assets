@@ -1,0 +1,10 @@
+{
+    "name": "EEUR",
+    "symbol": "EEUR",
+    "type": "ibc",
+    "decimals": 6,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "ibc/373EF14936B38AC8F8A7E7024C0FB7099369FDDFDA3CDA9EFA73684B16249B64"
+}

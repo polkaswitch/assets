@@ -1,0 +1,10 @@
+{
+    "name": "axlUSDC",
+    "symbol": "axlUSDC",
+    "type": "ibc",
+    "decimals": 6,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "ibc/BFF0D3805B50D93E2FA5C0B2DDF7E0B30A631076CD80BC12A48C0E95404B4A41"
+}

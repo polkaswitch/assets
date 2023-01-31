@@ -1,0 +1,10 @@
+{
+    "name": "Mirror NFLX Token",
+    "symbol": "mNFLX",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc"
+}

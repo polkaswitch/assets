@@ -1,0 +1,10 @@
+{
+    "name": "axlDAI",
+    "symbol": "axlDAI",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "ibc/3914BDEF46F429A26917E4D8D434620EC4817DC6B6E68FB327E190902F1E9242"
+}

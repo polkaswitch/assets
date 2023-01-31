@@ -1,0 +1,10 @@
+{
+    "name": "Biconomy Token",
+    "symbol": "BICO",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x524CAbe5b2F66CBd6F6b08dEf086F18F8DdE033a"
+}

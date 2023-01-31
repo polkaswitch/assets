@@ -1,0 +1,10 @@
+{
+    "name": "Optics DAI v1",
+    "symbol": "DAIv1",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xE4fE50cdD716522A56204352f00AA110F731932d"
+}

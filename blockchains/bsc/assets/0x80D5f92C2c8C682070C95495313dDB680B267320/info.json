@@ -1,0 +1,10 @@
+{
+    "name": "AS Roma",
+    "symbol": "ASR",
+    "type": "evm",
+    "decimals": 2,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x80D5f92C2c8C682070C95495313dDB680B267320"
+}

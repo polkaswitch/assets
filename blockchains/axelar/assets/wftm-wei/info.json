@@ -1,0 +1,10 @@
+{
+    "name": "axlWFTM",
+    "symbol": "axlWFTM",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "wftm-wei"
+}

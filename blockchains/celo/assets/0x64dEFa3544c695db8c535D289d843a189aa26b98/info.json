@@ -1,0 +1,10 @@
+{
+    "name": "Moola cUSD",
+    "symbol": "mcUSD",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x64dEFa3544c695db8c535D289d843a189aa26b98"
+}

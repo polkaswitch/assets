@@ -1,0 +1,10 @@
+{
+    "name": "Mirror AMZN Token",
+    "symbol": "mAMZN",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x3947B992DC0147D2D89dF0392213781b04B25075"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Rewards CELO",
+    "symbol": "rCELO",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e"
+}

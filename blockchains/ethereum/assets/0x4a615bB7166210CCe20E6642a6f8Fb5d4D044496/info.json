@@ -1,0 +1,10 @@
+{
+    "name": "NaosToken",
+    "symbol": "NAOS",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496"
+}

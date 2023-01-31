@@ -1,0 +1,10 @@
+{
+    "name": "Block",
+    "symbol": "BLOCK",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x807a0774236A0fBE9e7f8E7Df49EDFED0e6777Ea"
+}

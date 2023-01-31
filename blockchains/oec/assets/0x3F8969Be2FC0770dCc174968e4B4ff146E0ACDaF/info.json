@@ -1,0 +1,10 @@
+{
+    "name": "Filecoin",
+    "symbol": "FIL",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x3F8969Be2FC0770dCc174968e4B4ff146E0ACDaF"
+}

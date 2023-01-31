@@ -1,0 +1,10 @@
+{
+    "name": "BTC 2x Flexible Leverage Index",
+    "symbol": "BTC2x-FLI",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x4b54Bc363f5F9c6E0fcd82EaC6919aE213464Cc6"
+}

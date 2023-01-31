@@ -1,0 +1,10 @@
+{
+    "name": "wrapped.com Bitcoin",
+    "symbol": "cBTC",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "axlAPE",
+    "symbol": "axlAPE",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "ape-wei"
+}

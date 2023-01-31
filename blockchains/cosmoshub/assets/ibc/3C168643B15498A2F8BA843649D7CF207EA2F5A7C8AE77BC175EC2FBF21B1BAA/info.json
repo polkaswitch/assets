@@ -1,0 +1,10 @@
+{
+    "name": "axlWETH",
+    "symbol": "axlWETH",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "ibc/3C168643B15498A2F8BA843649D7CF207EA2F5A7C8AE77BC175EC2FBF21B1BAA"
+}

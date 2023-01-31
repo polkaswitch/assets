@@ -1,0 +1,10 @@
+{
+    "name": "Ether",
+    "symbol": "ETH",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+}

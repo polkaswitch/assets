@@ -1,0 +1,10 @@
+{
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3"
+}

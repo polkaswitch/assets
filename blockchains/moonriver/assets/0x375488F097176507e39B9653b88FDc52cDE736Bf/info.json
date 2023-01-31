@@ -1,0 +1,10 @@
+{
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x375488F097176507e39B9653b88FDc52cDE736Bf"
+}

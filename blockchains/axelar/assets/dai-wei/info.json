@@ -1,0 +1,10 @@
+{
+    "name": "axlDAI",
+    "symbol": "axlDAI",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "dai-wei"
+}

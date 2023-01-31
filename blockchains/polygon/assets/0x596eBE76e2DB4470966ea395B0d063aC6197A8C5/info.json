@@ -1,0 +1,10 @@
+{
+    "name": "Jarvis Reward Token",
+    "symbol": "JRT",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x596eBE76e2DB4470966ea395B0d063aC6197A8C5"
+}

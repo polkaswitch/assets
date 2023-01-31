@@ -1,0 +1,10 @@
+{
+    "name": "StargateToken",
+    "symbol": "STG",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"
+}

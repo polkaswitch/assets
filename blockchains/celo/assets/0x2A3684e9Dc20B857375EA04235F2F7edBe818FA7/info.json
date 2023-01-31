@@ -1,0 +1,10 @@
+{
+    "name": "Optics USDC v1",
+    "symbol": "USDCv1",
+    "type": "evm",
+    "decimals": 6,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7"
+}

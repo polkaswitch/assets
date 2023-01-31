@@ -1,0 +1,10 @@
+{
+    "name": "axlUNI",
+    "symbol": "axlUNI",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "uni-wei"
+}
