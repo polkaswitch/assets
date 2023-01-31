@@ -1,0 +1,10 @@
+{
+    "name": "axlWBTC",
+    "symbol": "axlWBTC",
+    "type": "ibc",
+    "decimals": 8,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "wbtc-satoshi"
+}

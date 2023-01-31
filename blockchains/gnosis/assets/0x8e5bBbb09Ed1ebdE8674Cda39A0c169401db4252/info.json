@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "type": "evm",
+    "decimals": 8,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252"
+}

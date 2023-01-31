@@ -1,0 +1,10 @@
+{
+    "name": "axlFRAX",
+    "symbol": "axlFRAX",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "ibc/21DB3093824F38A29399E7466B5870559AEC683D0D09D746F9EC47BB8505CBF7"
+}

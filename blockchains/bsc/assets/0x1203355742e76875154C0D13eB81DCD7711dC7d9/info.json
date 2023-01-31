@@ -1,0 +1,10 @@
+{
+    "name": "USDX",
+    "symbol": "USDX",
+    "type": "evm",
+    "decimals": 6,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x1203355742e76875154C0D13eB81DCD7711dC7d9"
+}

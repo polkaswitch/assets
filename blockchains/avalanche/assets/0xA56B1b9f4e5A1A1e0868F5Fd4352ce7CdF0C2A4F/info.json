@@ -1,0 +1,10 @@
+{
+    "name": "MATIC Token",
+    "symbol": "MATIC",
+    "type": "evm",
+    "decimals": 19,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xA56B1b9f4e5A1A1e0868F5Fd4352ce7CdF0C2A4F"
+}

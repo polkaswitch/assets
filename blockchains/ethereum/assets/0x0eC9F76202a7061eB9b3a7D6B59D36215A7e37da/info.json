@@ -1,0 +1,10 @@
+{
+    "name": "BlackPool Token",
+    "symbol": "BPT",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da"
+}

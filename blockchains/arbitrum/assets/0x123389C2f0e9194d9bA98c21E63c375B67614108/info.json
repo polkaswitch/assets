@@ -1,0 +1,10 @@
+{
+    "name": "EthereumMax",
+    "symbol": "EMAX",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x123389C2f0e9194d9bA98c21E63c375B67614108"
+}

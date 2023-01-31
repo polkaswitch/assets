@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped OKExChain",
+    "symbol": "WOKT",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15"
+}

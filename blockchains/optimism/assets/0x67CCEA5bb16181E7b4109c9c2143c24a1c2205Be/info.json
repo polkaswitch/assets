@@ -1,0 +1,10 @@
+{
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be"
+}

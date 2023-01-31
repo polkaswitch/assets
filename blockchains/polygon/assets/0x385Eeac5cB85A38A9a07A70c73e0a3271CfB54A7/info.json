@@ -1,0 +1,10 @@
+{
+    "name": "Aavegotchi GHST Token",
+    "symbol": "GHST",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7"
+}

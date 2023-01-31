@@ -1,0 +1,10 @@
+{
+    "name": "Optics WBTC v1",
+    "symbol": "WBTCv1",
+    "type": "evm",
+    "decimals": 8,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Optics WETH v1",
+    "symbol": "WETHv1",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4"
+}

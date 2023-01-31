@@ -1,0 +1,10 @@
+{
+    "name": "axlAAVE",
+    "symbol": "axlAAVE",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "aave-wei"
+}

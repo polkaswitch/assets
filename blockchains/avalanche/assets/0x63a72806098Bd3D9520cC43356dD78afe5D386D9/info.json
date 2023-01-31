@@ -1,0 +1,10 @@
+{
+    "name": "AAVE",
+    "symbol": "AAVE",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9"
+}

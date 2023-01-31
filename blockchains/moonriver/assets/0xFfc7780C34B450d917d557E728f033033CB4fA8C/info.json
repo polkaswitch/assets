@@ -1,0 +1,10 @@
+{
+    "name": "Liquid staked KSM",
+    "symbol": "stKSM",
+    "type": "evm",
+    "decimals": 12,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xFfc7780C34B450d917d557E728f033033CB4fA8C"
+}

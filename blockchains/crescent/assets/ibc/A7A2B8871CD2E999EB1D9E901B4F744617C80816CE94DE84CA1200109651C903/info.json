@@ -1,0 +1,10 @@
+{
+    "name": "axlBUSD",
+    "symbol": "axlBUSD",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "ibc/A7A2B8871CD2E999EB1D9E901B4F744617C80816CE94DE84CA1200109651C903"
+}

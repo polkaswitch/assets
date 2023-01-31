@@ -1,0 +1,10 @@
+{
+    "name": "VAI Stablecoin",
+    "symbol": "VAI",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7"
+}

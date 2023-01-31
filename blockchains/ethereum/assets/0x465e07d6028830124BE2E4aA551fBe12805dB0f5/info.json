@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped XMR",
+    "symbol": "WXMR",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x465e07d6028830124BE2E4aA551fBe12805dB0f5"
+}

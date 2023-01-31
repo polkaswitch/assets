@@ -1,0 +1,10 @@
+{
+    "name": "Savings CELO",
+    "symbol": "sCELO",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA"
+}

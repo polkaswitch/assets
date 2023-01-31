@@ -1,0 +1,10 @@
+{
+    "name": "XRP Token",
+    "symbol": "XRP",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE"
+}

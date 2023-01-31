@@ -1,0 +1,10 @@
+{
+    "name": "Old Wrapped Ether",
+    "symbol": "oldWETH",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15"
+}

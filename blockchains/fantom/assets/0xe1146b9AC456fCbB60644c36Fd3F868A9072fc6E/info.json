@@ -1,0 +1,10 @@
+{
+    "name": "fBTC",
+    "symbol": "fBTC",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E"
+}

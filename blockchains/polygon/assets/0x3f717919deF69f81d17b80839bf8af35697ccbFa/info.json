@@ -1,0 +1,10 @@
+{
+    "name": "Data Exchange Token",
+    "symbol": "DTX",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x3f717919deF69f81d17b80839bf8af35697ccbFa"
+}

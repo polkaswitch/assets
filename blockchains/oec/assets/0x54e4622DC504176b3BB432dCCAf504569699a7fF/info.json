@@ -1,0 +1,10 @@
+{
+    "name": "BTC",
+    "symbol": "BTC",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x54e4622DC504176b3BB432dCCAf504569699a7fF"
+}

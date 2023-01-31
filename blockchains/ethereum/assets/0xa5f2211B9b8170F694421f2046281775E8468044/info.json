@@ -1,0 +1,10 @@
+{
+    "name": "THORSwap Token",
+    "symbol": "THOR",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xa5f2211B9b8170F694421f2046281775E8468044"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Yearn Lazy Ape Index",
+    "symbol": "YLA",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x9ba60bA98413A60dB4C651D4afE5C937bbD8044B"
+}

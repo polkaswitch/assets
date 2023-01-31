@@ -1,0 +1,10 @@
+{
+    "name": "Staked FTM",
+    "symbol": "sFTM",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x69c744D3444202d35a2783929a0F930f2FBB05ad"
+}

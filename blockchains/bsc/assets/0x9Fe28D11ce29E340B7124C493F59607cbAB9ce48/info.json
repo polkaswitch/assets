@@ -1,0 +1,10 @@
+{
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x9Fe28D11ce29E340B7124C493F59607cbAB9ce48"
+}

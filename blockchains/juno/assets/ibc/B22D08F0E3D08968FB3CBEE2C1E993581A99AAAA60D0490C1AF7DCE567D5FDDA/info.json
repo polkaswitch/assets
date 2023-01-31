@@ -1,0 +1,10 @@
+{
+    "name": "axlUSDT",
+    "symbol": "axlUSDT",
+    "type": "ibc",
+    "decimals": 6,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "ibc/B22D08F0E3D08968FB3CBEE2C1E993581A99AAAA60D0490C1AF7DCE567D5FDDA"
+}

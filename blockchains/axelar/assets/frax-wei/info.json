@@ -1,0 +1,10 @@
+{
+    "name": "axlFRAX",
+    "symbol": "axlFRAX",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "frax-wei"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Frax",
+    "symbol": "FRAX",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64"
+}

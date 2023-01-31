@@ -1,0 +1,10 @@
+{
+    "name": "Huobi",
+    "symbol": "HT",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0xCDEB5641dC5BF05845317B00643A713CCC3b22e6"
+}

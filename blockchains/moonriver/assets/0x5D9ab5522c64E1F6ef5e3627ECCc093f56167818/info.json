@@ -1,0 +1,10 @@
+{
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818"
+}

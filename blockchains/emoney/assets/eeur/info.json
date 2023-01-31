@@ -1,0 +1,10 @@
+{
+    "name": "EEUR",
+    "symbol": "EEUR",
+    "type": "ibc",
+    "decimals": 6,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "eeur"
+}

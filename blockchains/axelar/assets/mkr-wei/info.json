@@ -1,0 +1,10 @@
+{
+    "name": "axlMKR",
+    "symbol": "axlMKR",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "mkr-wei"
+}

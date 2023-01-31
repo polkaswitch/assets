@@ -1,0 +1,10 @@
+{
+    "name": "IronBank",
+    "symbol": "IB",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x00a35FD824c717879BF370E70AC6868b95870Dfb"
+}

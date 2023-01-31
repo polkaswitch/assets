@@ -1,0 +1,10 @@
+{
+    "name": "Optics USDC v2 POS",
+    "symbol": "USDC-POS",
+    "type": "evm",
+    "decimals": 6,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x1bfc26cE035c368503fAE319Cc2596716428ca44"
+}
