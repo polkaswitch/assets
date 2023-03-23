@@ -1,0 +1,9 @@
+{
+  "symbol": "1INCH.e",
+  "decimals": 18,
+  "address": "0xd501281565bf7789224523144fe5d98e8b28f267",
+  "chainId,": 43114,
+  "name": "1INCH",
+  "status": "active",
+  "type": "evm"
+}
