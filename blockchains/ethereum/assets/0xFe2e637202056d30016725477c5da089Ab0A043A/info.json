@@ -1,0 +1,11 @@
+{
+  "name": "StakeWise Staked ETH2",
+  "symbol": "sETH2",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "https://etherscan.io/token/0xFe2e637202056d30016725477c5da089Ab0A043A",
+  "status": "active",
+  "id": "0xFe2e637202056d30016725477c5da089Ab0A043A"
+}
