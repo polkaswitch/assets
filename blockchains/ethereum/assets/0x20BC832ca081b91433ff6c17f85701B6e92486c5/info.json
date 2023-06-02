@@ -1,0 +1,11 @@
+{
+  "name": "StakeWise Reward Eth",
+  "symbol": "rETH2",
+  "type": "ERC20",
+  "decimals": 8,
+  "description": "-",
+  "website": "",
+  "explorer": "https://etherscan.io/token/0x20BC832ca081b91433ff6c17f85701B6e92486c5",
+  "status": "active",
+  "id": "0x20BC832ca081b91433ff6c17f85701B6e92486c5"
+}
