@@ -1,0 +1,10 @@
+{
+    "name": "BUSDbs",
+    "symbol": "BUSDbs",
+    "type": "evm",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "0x692C57641fc054c2Ad6551Ccc6566EbA599de1BA"
+}
