@@ -1,0 +1,10 @@
+{
+  "name": "ORB Token",
+  "symbol": "ORB",
+  "type": "evm",
+  "decimals": 18,
+  "description": "",
+  "website": "",
+  "status": "active",
+  "id": "0x4EEaa1fd27c50C64E77272BCdDe68c28F0A3c3D7"
+}
