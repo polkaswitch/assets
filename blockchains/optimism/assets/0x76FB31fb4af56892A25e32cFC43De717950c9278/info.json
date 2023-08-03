@@ -1,0 +1,10 @@
+{
+  "name": "Aave Token",
+  "symbol": "AAVE",
+  "type": "evm",
+  "decimals": 18,
+  "description": "",
+  "website": "",
+  "status": "active",
+  "id": "0x76FB31fb4af56892A25e32cFC43De717950c9278"
+}
