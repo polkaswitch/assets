@@ -1,0 +1,10 @@
+{
+    "name": "AshSwap (ASH) Token",
+    "symbol": "ASH",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "ASH-a642d1"
+}
