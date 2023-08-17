@@ -1,0 +1,10 @@
+{
+    "name": "EGLD Native Token",
+    "symbol": "EGLD",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "EGLD"
+}
