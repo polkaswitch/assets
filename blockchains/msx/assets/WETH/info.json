@@ -1,0 +1,10 @@
+{
+    "name": "WrappedETH (WETH) Token",
+    "symbol": "WETH",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "WETH-b4ca29"
+}
