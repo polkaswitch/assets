@@ -1,0 +1,10 @@
+{
+    "name": "MEX Token",
+    "symbol": "MEX",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "MEX-455c57"
+}
