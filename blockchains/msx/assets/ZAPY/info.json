@@ -1,0 +1,10 @@
+{
+    "name": "ZoidPay (ZPAY) Token",
+    "symbol": "ZPAY",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "ZPAY-247875"
+}
