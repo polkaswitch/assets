@@ -1,0 +1,10 @@
+{
+    "name": "WrappedEGLD (WEGLD) Token",
+    "symbol": "WEGLD",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "WEGLD-bd4d79"
+}
