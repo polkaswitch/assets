@@ -1,0 +1,10 @@
+{
+    "name": "WrappedBTC (WBTC) Token",
+    "symbol": "WBTC",
+    "type": "ibc",
+    "decimals": 8,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "BTC-5349b3"
+}
