@@ -1,0 +1,10 @@
+{
+    "name": "Hatom (HTM) Token",
+    "symbol": "HTM",
+    "type": "ibc",
+    "decimals": 18,
+    "description": "",
+    "website": "",
+    "status": "active",
+    "id": "HTM-f51d55"
+}
