@@ -1,0 +1,10 @@
+{
+  "name": "USDC.wh",
+  "symbol": "USDC.wh",
+  "type": "ibc",
+  "decimals": 6,
+  "description": "",
+  "website": "",
+  "status": "active",
+  "id": "ibc/6B99DB46AA9FF47162148C1726866919E44A6A5E0274B90912FD17E19A337695"
+}

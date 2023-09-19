@@ -1,0 +1,10 @@
+{
+  "name": "USDT.wh",
+  "symbol": "USDT.wh",
+  "type": "ibc",
+  "decimals": 6,
+  "description": "",
+  "website": "",
+  "status": "active",
+  "id": "ibc/2108F2D81CBE328F371AD0CEF56691B18A86E08C3651504E42487D9EE92DDE9C"
+}
