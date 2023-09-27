@@ -1,0 +1,10 @@
+{
+  "name": "SOL",
+  "symbol": "SOL",
+  "type": "ibc",
+  "decimals": 8,
+  "description": "-",
+  "website": "",
+  "status": "active",
+  "id": "ibc/4443218F584A7AB2DFBCF93872D6E5B6967A11C53515DDF45A2CF387C54BD73A"
+}

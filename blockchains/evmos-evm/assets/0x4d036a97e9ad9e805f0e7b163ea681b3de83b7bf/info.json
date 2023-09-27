@@ -1,0 +1,10 @@
+{
+  "name": "WETH.wh",
+  "symbol": "WETH.wh",
+  "type": "evm",
+  "decimals": 9,
+  "description": "",
+  "website": "",
+  "status": "active",
+  "id": "0x4d036a97e9ad9e805f0e7b163ea681b3de83b7bf"
+}

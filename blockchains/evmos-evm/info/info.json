@@ -1,0 +1,29 @@
+{
+  "name": "Evmos EVM",
+  "website": "https://evmos.org/",
+  "source_code": "https://github.com/tharsis",
+  "description": "Designed with developers in mind, welcome to a universe where IBC can be leveraged directly from the smart contract level.",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/EvmosOrg",
+      "handle": "EvmosOrg"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/EvmosOrg",
+      "handle": "EvmosOrg"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/invite/evmos",
+      "handle": "evmos"
+    }
+  ],
+  "explorer": "https://escan.live/",
+  "research": "https://www.binance.com/en/price/evmos",
+  "symbol": "EVMOS",
+  "type": "evm",
+  "decimals": 18,
+  "status": "active"
+}

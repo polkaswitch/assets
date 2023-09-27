@@ -1,0 +1,10 @@
+{
+  "name": "USDC.wh",
+  "symbol": "USDC.wh",
+  "type": "evm",
+  "decimals": 6,
+  "description": "",
+  "website": "",
+  "status": "active",
+  "id": "0xc4ccdf91b810a61ccb48b35cccc066c63bf94b4f"
+}

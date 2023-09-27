@@ -1,0 +1,10 @@
+{
+  "name": "Wormhole Wrapped BTC",
+  "symbol": "WBTC.wh",
+  "type": "evm",
+  "decimals": 8,
+  "description": "",
+  "website": "",
+  "status": "active",
+  "id": "0xc732284e5dedb565ba403216d718a485038e55a6"
+}
