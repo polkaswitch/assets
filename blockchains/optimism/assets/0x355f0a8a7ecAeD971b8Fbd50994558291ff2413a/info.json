@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Avalanche (USDC)",
+  "symbol": "USDCav",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0x355f0a8a7ecAeD971b8Fbd50994558291ff2413a/logo.png",
+  "status": "active",
+  "id": "0x355f0a8a7ecAeD971b8Fbd50994558291ff2413a"
+}

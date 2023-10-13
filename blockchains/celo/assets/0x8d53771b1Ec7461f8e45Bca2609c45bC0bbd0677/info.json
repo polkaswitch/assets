@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Optimism (WETH)",
+  "symbol": "WETHop",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/celo/assets/0x8d53771b1Ec7461f8e45Bca2609c45bC0bbd0677/logo.png",
+  "status": "active",
+  "id": "0x8d53771b1Ec7461f8e45Bca2609c45bC0bbd0677"
+}

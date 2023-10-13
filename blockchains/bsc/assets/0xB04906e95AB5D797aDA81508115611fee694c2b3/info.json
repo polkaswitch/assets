@@ -1,0 +1,8 @@
+{
+  "name": "USDCet",
+  "symbol": "USDCet",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/bsc/assets/0xB04906e95AB5D797aDA81508115611fee694c2b3/usdc.jpg",
+  "status": "active",
+  "id": "0xB04906e95AB5D797aDA81508115611fee694c2b3"
+}

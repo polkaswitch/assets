@@ -1,0 +1,8 @@
+{
+  "name": "USDTso",
+  "symbol": "USDTso",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/bsc/assets/0x49d5cC521F75e13fa8eb4E89E9D381352C897c96/USDTso_wh.png",
+  "status": "active",
+  "id": "0x49d5cC521F75e13fa8eb4E89E9D381352C897c96"
+}

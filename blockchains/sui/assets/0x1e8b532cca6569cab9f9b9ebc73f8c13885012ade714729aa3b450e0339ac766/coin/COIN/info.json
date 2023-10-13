@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Avalanche (WAVAX)",
+  "symbol": "WAVAXav",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/sui/assets/0x1e8b532cca6569cab9f9b9ebc73f8c13885012ade714729aa3b450e0339ac766/coin/COIN/logo.png",
+  "status": "active",
+  "id": "0x1e8b532cca6569cab9f9b9ebc73f8c13885012ade714729aa3b450e0339ac766::coin::COIN"
+}

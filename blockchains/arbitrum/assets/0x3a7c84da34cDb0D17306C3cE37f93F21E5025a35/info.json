@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Bsc (BUSD)",
+  "symbol": "BUSDbs",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/arbitrum/assets/0x3a7c84da34cDb0D17306C3cE37f93F21E5025a35/logo.png",
+  "status": "active",
+  "id": "0x3a7c84da34cDb0D17306C3cE37f93F21E5025a35"
+}

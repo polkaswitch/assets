@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Sui (SUI)",
+  "symbol": "SUIsui",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/ethereum/assets/0x84074EA631dEc7a4edcD5303d164D5dEa4c653D6/logo.png",
+  "status": "active",
+  "id": "0x84074EA631dEc7a4edcD5303d164D5dEa4c653D6"
+}

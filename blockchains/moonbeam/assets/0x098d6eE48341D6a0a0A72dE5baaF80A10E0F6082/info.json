@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Solana (USDC)",
+  "symbol": "USDCso",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0x098d6eE48341D6a0a0A72dE5baaF80A10E0F6082/logo.png",
+  "status": "active",
+  "id": "0x098d6eE48341D6a0a0A72dE5baaF80A10E0F6082"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Optimism (USDC)",
+  "symbol": "USDCop",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0x7143e8EA96e158381057a58AfdDF44601c7e532C/logo.png",
+  "status": "active",
+  "id": "0x7143e8EA96e158381057a58AfdDF44601c7e532C"
+}

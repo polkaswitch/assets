@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Ethereum (WETH)",
+  "symbol": "WETHet",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/optimism/assets/0xb47bC3ed6D70F04fe759b2529c9bc7377889678f/logo.png",
+  "status": "active",
+  "id": "0xb47bC3ed6D70F04fe759b2529c9bc7377889678f"
+}

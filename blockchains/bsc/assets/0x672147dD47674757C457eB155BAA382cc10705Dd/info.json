@@ -1,0 +1,8 @@
+{
+  "name": "USDCpo",
+  "symbol": "USDCpo",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/bsc/assets/0x672147dD47674757C457eB155BAA382cc10705Dd/usdc.jpg",
+  "status": "active",
+  "id": "0x672147dD47674757C457eB155BAA382cc10705Dd"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Moonbeam (WGLMR)",
+  "symbol": "WGLMRmo",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/aptos/assets/0x7ab1283a7b13c4254d4e1f803d7ce6578442c1d7a40d0faee41cd48ba4884c8a/coin/T/logo.png",
+  "status": "active",
+  "id": "0x7ab1283a7b13c4254d4e1f803d7ce6578442c1d7a40d0faee41cd48ba4884c8a::coin::T"
+}

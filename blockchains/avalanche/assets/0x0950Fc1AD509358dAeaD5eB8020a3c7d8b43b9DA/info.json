@@ -1,0 +1,8 @@
+{
+  "name": "USDCso",
+  "symbol": "USDCso",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/avalanche/assets/0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA/usdc.jpg",
+  "status": "active",
+  "id": "0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA"
+}
