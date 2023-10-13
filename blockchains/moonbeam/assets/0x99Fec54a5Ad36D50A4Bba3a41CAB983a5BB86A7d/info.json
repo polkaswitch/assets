@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Solana (WSOL)",
+  "symbol": "WSOLso",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0x99Fec54a5Ad36D50A4Bba3a41CAB983a5BB86A7d/logo.png",
+  "status": "active",
+  "id": "0x99Fec54a5Ad36D50A4Bba3a41CAB983a5BB86A7d"
+}

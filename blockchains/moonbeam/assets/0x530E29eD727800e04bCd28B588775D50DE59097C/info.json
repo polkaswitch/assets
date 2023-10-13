@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Polygon (USDC)",
+  "symbol": "USDCpo",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0x530E29eD727800e04bCd28B588775D50DE59097C/logo.png",
+  "status": "active",
+  "id": "0x530E29eD727800e04bCd28B588775D50DE59097C"
+}

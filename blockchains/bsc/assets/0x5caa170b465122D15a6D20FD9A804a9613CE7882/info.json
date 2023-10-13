@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Arbitrum (USDC)",
+  "symbol": "USDCarb",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/bsc/assets/0x5caa170b465122D15a6D20FD9A804a9613CE7882/logo.png",
+  "status": "active",
+  "id": "0x5caa170b465122D15a6D20FD9A804a9613CE7882"
+}

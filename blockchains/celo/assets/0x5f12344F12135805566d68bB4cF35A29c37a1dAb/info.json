@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Bsc (BUSD)",
+  "symbol": "BUSDbs",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/celo/assets/0x5f12344F12135805566d68bB4cF35A29c37a1dAb/logo.png",
+  "status": "active",
+  "id": "0x5f12344F12135805566d68bB4cF35A29c37a1dAb"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Polygon (WMATIC)",
+  "symbol": "WMATICpo",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/sui/assets/0xdbe380b13a6d0f5cdedd58de8f04625263f113b3f9db32b3e1983f49e2841676/coin/COIN/logo.png",
+  "status": "active",
+  "id": "0xdbe380b13a6d0f5cdedd58de8f04625263f113b3f9db32b3e1983f49e2841676::coin::COIN"
+}

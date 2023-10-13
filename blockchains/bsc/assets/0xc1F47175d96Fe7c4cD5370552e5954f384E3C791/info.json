@@ -1,0 +1,8 @@
+{
+  "name": "USDCav",
+  "symbol": "USDCav",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/bsc/assets/0xc1F47175d96Fe7c4cD5370552e5954f384E3C791/USDCav_wh.png",
+  "status": "active",
+  "id": "0xc1F47175d96Fe7c4cD5370552e5954f384E3C791"
+}

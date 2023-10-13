@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Sui (SUI)",
+  "symbol": "SUIsui",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/avalanche/assets/0x1703CB0F762D2a435199B64Ea47E5349B7C17480/logo.png",
+  "status": "active",
+  "id": "0x1703CB0F762D2a435199B64Ea47E5349B7C17480"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Ethereum (DAI)",
+  "symbol": "DAIet",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/aptos/assets/0x407a220699982ebb514568d007938d2447d33667e4418372ffec1ddb24491b6c/coin/T/logo.png",
+  "status": "active",
+  "id": "0x407a220699982ebb514568d007938d2447d33667e4418372ffec1ddb24491b6c::coin::T"
+}

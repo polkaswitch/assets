@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Bsc (WBNB)",
+  "symbol": "WBNBbs",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0xE3b841C3f96e647E6dc01b468d6D0AD3562a9eeb/logo.png",
+  "status": "active",
+  "id": "0xE3b841C3f96e647E6dc01b468d6D0AD3562a9eeb"
+}

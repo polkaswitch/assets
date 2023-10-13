@@ -1,0 +1,8 @@
+{
+  "name": "BUSDet",
+  "symbol": "BUSDet",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/bsc/assets/0x035de3679E692C471072d1A09bEb9298fBB2BD31/BUSDet_wh.png",
+  "status": "active",
+  "id": "0x035de3679E692C471072d1A09bEb9298fBB2BD31"
+}

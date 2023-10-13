@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Ethereum (USDT)",
+  "symbol": "USDTet",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0xc30E9cA94CF52f3Bf5692aaCF81353a27052c46f/logo.png",
+  "status": "active",
+  "id": "0xc30E9cA94CF52f3Bf5692aaCF81353a27052c46f"
+}

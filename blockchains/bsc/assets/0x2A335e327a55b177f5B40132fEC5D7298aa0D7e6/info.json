@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Celo (CELO)",
+  "symbol": "CELOce",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/bsc/assets/0x2A335e327a55b177f5B40132fEC5D7298aa0D7e6/logo.png",
+  "status": "active",
+  "id": "0x2A335e327a55b177f5B40132fEC5D7298aa0D7e6"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Ethereum (USDC)",
+  "symbol": "USDCet",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/celo/assets/0x37f750B7cC259A2f741AF45294f6a16572CF5cAd/logo.png",
+  "status": "active",
+  "id": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd"
+}

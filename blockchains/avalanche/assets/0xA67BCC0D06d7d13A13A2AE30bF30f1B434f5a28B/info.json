@@ -1,0 +1,8 @@
+{
+  "name": "USDTbs",
+  "symbol": "USDTbs",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/avalanche/assets/0xA67BCC0D06d7d13A13A2AE30bF30f1B434f5a28B/USDTbs_wh.png",
+  "status": "active",
+  "id": "0xA67BCC0D06d7d13A13A2AE30bF30f1B434f5a28B"
+}

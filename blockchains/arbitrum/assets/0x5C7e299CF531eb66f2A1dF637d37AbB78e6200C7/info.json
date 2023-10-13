@@ -1,0 +1,8 @@
+{
+  "name": "axlDAI",
+  "symbol": "axlDAI",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/265ABC4B9F767AF45CAC6FB76E930548D835EDA3E94BC56B70582A55A73D8C90/logo.png",
+  "status": "active",
+  "id": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7"
+}

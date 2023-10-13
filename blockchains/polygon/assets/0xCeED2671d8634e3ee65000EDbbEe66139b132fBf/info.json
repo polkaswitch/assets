@@ -1,0 +1,8 @@
+{
+  "name": "axlUSDT",
+  "symbol": "axlUSDT",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/injective/assets/ibc/90C6F06139D663CFD7949223D257C5B5D241E72ED61EBD12FFDDA6F068715E47/logo.png",
+  "status": "active",
+  "id": "0xCeED2671d8634e3ee65000EDbbEe66139b132fBf"
+}

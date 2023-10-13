@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Base (WETH)",
+  "symbol": "WETHba",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/bsc/assets/0x9dc152F4941cE1A138326e70c3600385bf0C22dD/logo.png",
+  "status": "active",
+  "id": "0x9dc152F4941cE1A138326e70c3600385bf0C22dD"
+}

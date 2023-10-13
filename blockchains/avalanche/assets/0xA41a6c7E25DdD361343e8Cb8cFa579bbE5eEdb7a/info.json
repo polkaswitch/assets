@@ -1,0 +1,8 @@
+{
+  "name": "BUSDbs",
+  "symbol": "BUSDbs",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/avalanche/assets/0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a/busd.jpg",
+  "status": "active",
+  "id": "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Bsc (BUSD)",
+  "symbol": "BUSDbs",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/fantom/assets/0x98Dc7F499E4b847b09f24d8c7617B4dCE0D676b5/logo.png",
+  "status": "active",
+  "id": "0x98Dc7F499E4b847b09f24d8c7617B4dCE0D676b5"
+}
