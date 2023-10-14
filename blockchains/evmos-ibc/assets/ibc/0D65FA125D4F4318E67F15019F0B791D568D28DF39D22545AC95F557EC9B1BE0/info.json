@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Ethereum (wstETH)",
+  "symbol": "wstETHet",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/evmos-IB/assets/ibc/0D65FA125D4F4318E67F15019F0B791D568D28DF39D22545AC95F557EC9B1BE0/logo.png",
+  "status": "active",
+  "id": "ibc/0D65FA125D4F4318E67F15019F0B791D568D28DF39D22545AC95F557EC9B1BE0"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Ethereum (BUSD)",
+  "symbol": "BUSDet",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/evmos-IB/assets/ibc/B9FAE675DCC3E42CA96AEE3331B4A386807FE4FB9480726BD77120A9C074815E/logo.png",
+  "status": "active",
+  "id": "ibc/B9FAE675DCC3E42CA96AEE3331B4A386807FE4FB9480726BD77120A9C074815E"
+}

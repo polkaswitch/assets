@@ -1,0 +1,8 @@
+{
+  "name": "axlBUSD",
+  "symbol": "axlBUSD",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/busd-wei/logo.png",
+  "status": "active",
+  "id": "busd-wei"
+}

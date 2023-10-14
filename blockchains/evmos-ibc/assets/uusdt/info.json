@@ -1,0 +1,8 @@
+{
+  "name": "axlUSDT",
+  "symbol": "axlUSDT",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/uusdt/logo.png",
+  "status": "active",
+  "id": "uusdt"
+}

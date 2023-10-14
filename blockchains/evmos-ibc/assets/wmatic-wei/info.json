@@ -1,0 +1,8 @@
+{
+  "name": "axlMATIC",
+  "symbol": "axlMATIC",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/wmatic-wei/logo.png",
+  "status": "active",
+  "id": "wmatic-wei"
+}

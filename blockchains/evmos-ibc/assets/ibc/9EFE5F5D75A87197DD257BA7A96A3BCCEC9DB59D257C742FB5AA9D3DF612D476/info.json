@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Fantom (WFTM)",
+  "symbol": "WFTMfa",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/evmos-IB/assets/ibc/9EFE5F5D75A87197DD257BA7A96A3BCCEC9DB59D257C742FB5AA9D3DF612D476/logo.png",
+  "status": "active",
+  "id": "ibc/9EFE5F5D75A87197DD257BA7A96A3BCCEC9DB59D257C742FB5AA9D3DF612D476"
+}

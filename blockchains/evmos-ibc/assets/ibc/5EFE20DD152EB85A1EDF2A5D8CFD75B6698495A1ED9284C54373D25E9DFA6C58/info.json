@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Ethereum (tBTC)",
+  "symbol": "tBTCet",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/evmos-IB/assets/ibc/5EFE20DD152EB85A1EDF2A5D8CFD75B6698495A1ED9284C54373D25E9DFA6C58/logo.png",
+  "status": "active",
+  "id": "ibc/5EFE20DD152EB85A1EDF2A5D8CFD75B6698495A1ED9284C54373D25E9DFA6C58"
+}
