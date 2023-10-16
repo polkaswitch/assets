@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Bsc (WBNB)",
+  "symbol": "WBNBbs",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/evmos-IB/assets/ibc/8153C58EF06B404C18C872605B9FCF01A098A93E19ACBACD7695133172D7F9DD/logo.png",
+  "status": "active",
+  "id": "ibc/8153C58EF06B404C18C872605B9FCF01A098A93E19ACBACD7695133172D7F9DD"
+}

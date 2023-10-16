@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Solana (BONK)",
+  "symbol": "BONKso",
+  "decimals": 5,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/osmosis/assets/ibc/CA3733CB0071F480FAE8EF0D9C3D47A49C6589144620A642BBE0D59A293D110E/logo.png",
+  "status": "active",
+  "id": "ibc/CA3733CB0071F480FAE8EF0D9C3D47A49C6589144620A642BBE0D59A293D110E"
+}

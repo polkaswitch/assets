@@ -1,0 +1,8 @@
+{
+  "name": "axlWBTC",
+  "symbol": "axlWBTC",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/wbtc-satoshi/logo.png",
+  "status": "active",
+  "id": "wbtc-satoshi"
+}

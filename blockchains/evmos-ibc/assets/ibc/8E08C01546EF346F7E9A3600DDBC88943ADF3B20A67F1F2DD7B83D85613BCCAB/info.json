@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Bsc (USDC)",
+  "symbol": "USDCbs",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/evmos-IB/assets/ibc/8E08C01546EF346F7E9A3600DDBC88943ADF3B20A67F1F2DD7B83D85613BCCAB/logo.png",
+  "status": "active",
+  "id": "ibc/8E08C01546EF346F7E9A3600DDBC88943ADF3B20A67F1F2DD7B83D85613BCCAB"
+}

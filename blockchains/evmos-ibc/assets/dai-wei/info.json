@@ -1,0 +1,8 @@
+{
+  "name": "axlDAI",
+  "symbol": "axlDAI",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/axelar/assets/dai-wei/logo.png",
+  "status": "active",
+  "id": "dai-wei"
+}

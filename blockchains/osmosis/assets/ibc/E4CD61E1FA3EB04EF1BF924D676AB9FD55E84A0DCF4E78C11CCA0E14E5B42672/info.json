@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Ethereum (WBTC)",
+  "symbol": "WBTCet",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/osmosis/assets/ibc/E4CD61E1FA3EB04EF1BF924D676AB9FD55E84A0DCF4E78C11CCA0E14E5B42672/logo.png",
+  "status": "active",
+  "id": "ibc/E4CD61E1FA3EB04EF1BF924D676AB9FD55E84A0DCF4E78C11CCA0E14E5B42672"
+}

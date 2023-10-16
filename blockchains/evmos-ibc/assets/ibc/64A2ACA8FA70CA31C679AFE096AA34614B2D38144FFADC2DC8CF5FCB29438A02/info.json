@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Aptos (APT)",
+  "symbol": "APTapt",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/evmos-IB/assets/ibc/64A2ACA8FA70CA31C679AFE096AA34614B2D38144FFADC2DC8CF5FCB29438A02/logo.png",
+  "status": "active",
+  "id": "ibc/64A2ACA8FA70CA31C679AFE096AA34614B2D38144FFADC2DC8CF5FCB29438A02"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Wormhole Arbitrum (WETH)",
+  "symbol": "WETHarb",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/osmosis/assets/ibc/760C41269D734BC8305CDD9B6D8D35443FDD96B137699899B207C9A7B50EC827/logo.png",
+  "status": "active",
+  "id": "ibc/760C41269D734BC8305CDD9B6D8D35443FDD96B137699899B207C9A7B50EC827"
+}
