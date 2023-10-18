@@ -1,0 +1,11 @@
+{
+    "name": "Staked Frax Ether",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "type": "ERC20",
+    "symbol": "sfrxETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xac3e018457b222d93114458476f3e3416abbe38f",
+}
