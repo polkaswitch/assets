@@ -1,0 +1,8 @@
+{
+  "name": "USD Coin | Multichain",
+  "symbol": "USDC",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/moonbeam/assets/0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b/logo.png",
+  "status": "active",
+  "id": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b"
+}
