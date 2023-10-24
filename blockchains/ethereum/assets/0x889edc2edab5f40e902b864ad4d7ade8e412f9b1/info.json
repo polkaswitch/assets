@@ -1,0 +1,8 @@
+{
+  "name": "Lido: stETH Withdrawal NFT (unstETH)",
+  "symbol": "unstETH",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/ethereum/assets/0x889edc2edab5f40e902b864ad4d7ade8e412f9b1/logo.png",
+  "status": "active",
+  "id": "0x889edc2edab5f40e902b864ad4d7ade8e412f9b1"
+}

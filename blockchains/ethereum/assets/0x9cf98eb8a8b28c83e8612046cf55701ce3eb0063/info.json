@@ -1,0 +1,8 @@
+{
+  "name": "Unreal Finance",
+  "symbol": "UGT",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/ethereum/assets/0x9cf98eb8a8b28c83e8612046cf55701ce3eb0063/logo.png",
+  "status": "active",
+  "id": "0x9cf98eb8a8b28c83e8612046cf55701ce3eb0063"
+}
