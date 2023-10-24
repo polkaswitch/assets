@@ -1,0 +1,8 @@
+{
+  "name": "WBTC",
+  "symbol": "WBTC",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/zksync-era/assets/0xBBeB516fb02a01611cBBE0453Fe3c580D7281011/logo.png",
+  "status": "active",
+  "id": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011"
+}

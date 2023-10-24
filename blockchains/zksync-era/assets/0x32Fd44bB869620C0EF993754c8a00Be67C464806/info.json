@@ -1,0 +1,8 @@
+{
+  "name": "Rocket Pool ETH",
+  "symbol": "rETH",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/zksync-era/assets/0x32Fd44bB869620C0EF993754c8a00Be67C464806/logo.png",
+  "status": "active",
+  "id": "0x32Fd44bB869620C0EF993754c8a00Be67C464806"
+}

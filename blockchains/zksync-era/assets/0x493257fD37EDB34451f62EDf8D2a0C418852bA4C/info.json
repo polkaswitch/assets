@@ -1,0 +1,8 @@
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/zksync-era/assets/0x493257fD37EDB34451f62EDf8D2a0C418852bA4C/logo.png",
+  "status": "active",
+  "id": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C"
+}

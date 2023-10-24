@@ -1,0 +1,8 @@
+{
+  "name": "Avalanche",
+  "symbol": "AVAX",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/zksync-era/assets/0x6a5279e99ca7786fb13f827fc1fb4f61684933d6/logo.png",
+  "status": "active",
+  "id": "0x6a5279e99ca7786fb13f827fc1fb4f61684933d6"
+}

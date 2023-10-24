@@ -1,0 +1,8 @@
+{
+  "name": "Binance Coin",
+  "symbol": "BNB",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/zksync-era/assets/0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f/logo.png",
+  "status": "active",
+  "id": "0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f"
+}

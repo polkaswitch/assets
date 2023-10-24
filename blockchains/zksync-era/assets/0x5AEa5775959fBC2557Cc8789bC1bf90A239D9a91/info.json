@@ -1,0 +1,8 @@
+{
+  "name": "WETH",
+  "symbol": "WETH",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/zksync-era/assets/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png",
+  "status": "active",
+  "id": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91"
+}

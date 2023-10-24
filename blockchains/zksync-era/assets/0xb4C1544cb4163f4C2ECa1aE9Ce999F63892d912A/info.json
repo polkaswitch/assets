@@ -1,0 +1,8 @@
+{
+  "name": "Frax",
+  "symbol": "FRAX",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/zksync-era/assets/0xb4C1544cb4163f4C2ECa1aE9Ce999F63892d912A/logo.png",
+  "status": "active",
+  "id": "0xb4C1544cb4163f4C2ECa1aE9Ce999F63892d912A"
+}
