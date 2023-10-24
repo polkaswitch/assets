@@ -1,0 +1,8 @@
+{
+  "name": "bETH",
+  "symbol": "bETH",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/ethereum/assets/0x707f9118e33a9b8998bea41dd0d46f38bb963fc8/empty-token.png",
+  "status": "active",
+  "id": "0x707f9118e33a9b8998bea41dd0d46f38bb963fc8"
+}

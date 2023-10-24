@@ -1,0 +1,8 @@
+{
+  "name": "Polker",
+  "symbol": "PKR",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/ethereum/assets/0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c/logo.png",
+  "status": "active",
+  "id": "0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c"
+}
