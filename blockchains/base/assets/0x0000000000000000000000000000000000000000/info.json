@@ -1,0 +1,8 @@
+{
+  "name": "ETH",
+  "symbol": "ETH",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/info/logo.png",
+  "status": "active",
+  "id": "0x0000000000000000000000000000000000000000"
+}
