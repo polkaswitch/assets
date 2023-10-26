@@ -1,0 +1,8 @@
+{
+  "name": "ETH",
+  "symbol": "ETH",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/zksync-era/assets/0x000000000000000000000000000000000000800A/logo.png",
+  "status": "active",
+  "id": "0x000000000000000000000000000000000000800A"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "BUSD",
+  "symbol": "BUSD",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/zksync-era/assets/0x2039bb4116b4efc145ec4f0e2ea75012d6c0f181/logo.png",
+  "status": "active",
+  "id": "0x2039bb4116b4efc145ec4f0e2ea75012d6c0f181"
+}

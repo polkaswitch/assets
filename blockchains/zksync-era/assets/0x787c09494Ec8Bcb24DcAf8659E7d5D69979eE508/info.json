@@ -1,0 +1,8 @@
+{
+  "name": "Maverick Token",
+  "symbol": "MAV",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/zksync-era/assets/0x787c09494Ec8Bcb24DcAf8659E7d5D69979eE508/logo.png",
+  "status": "active",
+  "id": "0x787c09494Ec8Bcb24DcAf8659E7d5D69979eE508"
+}

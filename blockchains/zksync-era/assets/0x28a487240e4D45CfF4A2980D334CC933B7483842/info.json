@@ -1,0 +1,8 @@
+{
+  "name": "Matic Token",
+  "symbol": "MATIC",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/zksync-era/assets/0x28a487240e4D45CfF4A2980D334CC933B7483842/logo.png",
+  "status": "active",
+  "id": "0x28a487240e4D45CfF4A2980D334CC933B7483842"
+}
