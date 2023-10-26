@@ -1,0 +1,8 @@
+{
+  "name": "Dai Stablecoin",
+  "symbol": "DAI",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb/logo.png",
+  "status": "active",
+  "id": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb"
+}

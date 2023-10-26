@@ -1,0 +1,8 @@
+{
+  "name": "0x Protocol Token",
+  "symbol": "ZRX",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0/logo.png",
+  "status": "active",
+  "id": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0"
+}
