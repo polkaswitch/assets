@@ -1,0 +1,11 @@
+{
+    "name": "Coinbase Wrapped Staked ETH",
+    "type": "ERC20",
+    "symbol": "cbETH",
+    "decimals": 18,
+    "website": "",
+    "description": "-",
+    "explorer": "https://etherscan.io/token/0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+    "status": "active",
+    "id": "0xbe9895146f7af43049ca1c1ae358b0541ea49704"
+}
