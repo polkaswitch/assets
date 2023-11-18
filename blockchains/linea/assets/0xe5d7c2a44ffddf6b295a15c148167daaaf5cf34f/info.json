@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped ETH",
+  "symbol": "WETH",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/linea/assets/0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f/logo.png",
+  "status": "active",
+  "id": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f"
+}

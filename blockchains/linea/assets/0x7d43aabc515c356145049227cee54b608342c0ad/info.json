@@ -1,0 +1,8 @@
+{
+  "name": "Binance USD",
+  "symbol": "BUSD",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/linea/assets/0x7d43aabc515c356145049227cee54b608342c0ad/logo.png",
+  "status": "active",
+  "id": "0x7d43aabc515c356145049227cee54b608342c0ad"
+}
