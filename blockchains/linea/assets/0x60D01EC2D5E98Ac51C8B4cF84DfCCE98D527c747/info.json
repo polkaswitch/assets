@@ -1,0 +1,8 @@
+{
+  "name": "izumi Token",
+  "symbol": "iZi",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/linea/assets/0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747/logo.png",
+  "status": "active",
+  "id": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747"
+}
