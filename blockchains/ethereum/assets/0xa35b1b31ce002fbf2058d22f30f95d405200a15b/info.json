@@ -1,0 +1,11 @@
+{
+    "name": "ETHx",
+    "symbol": "ETHx",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://etherscan.io/token/0xa35b1b31ce002fbf2058d22f30f95d405200a15b",
+    "status": "active",
+    "id": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b"
+}
