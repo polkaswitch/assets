@@ -1,0 +1,8 @@
+{
+  "name": "Axelar Wrapped AVAX",
+  "symbol": "axlAVAX",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0x6E76A241Ae6fcaD51C064Ac70fe6e676502b91c5/logo.png",
+  "status": "active",
+  "id": "0x6E76A241Ae6fcaD51C064Ac70fe6e676502b91c5"
+}

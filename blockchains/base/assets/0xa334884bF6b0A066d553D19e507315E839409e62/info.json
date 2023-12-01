@@ -1,0 +1,8 @@
+{
+  "name": "Ethos Reserve Note",
+  "symbol": "ERN",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0xa334884bF6b0A066d553D19e507315E839409e62/logo.png",
+  "status": "active",
+  "id": "0xa334884bF6b0A066d553D19e507315E839409e62"
+}

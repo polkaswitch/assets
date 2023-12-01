@@ -1,0 +1,8 @@
+{
+  "name": "Axelar Wrapped BAL",
+  "symbol": "axlBAL",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0x11C1879227D463b60db18C17c20aE739aE8E961a/logo.png",
+  "status": "active",
+  "id": "0x11C1879227D463b60db18C17c20aE739aE8E961a"
+}

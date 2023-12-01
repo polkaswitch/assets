@@ -1,0 +1,8 @@
+{
+  "name": "GoldenBoys",
+  "symbol": "GOLD",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0xbefd5c25a59ef2c1316c5a4944931171f30cd3e4/logo.png",
+  "status": "active",
+  "id": "0xbefd5c25a59ef2c1316c5a4944931171f30cd3e4"
+}

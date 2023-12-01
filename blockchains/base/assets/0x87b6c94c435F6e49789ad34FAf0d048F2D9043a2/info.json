@@ -1,0 +1,8 @@
+{
+  "name": "Axelar Wrapped ARB",
+  "symbol": "axlARB",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0x87b6c94c435F6e49789ad34FAf0d048F2D9043a2/logo.png",
+  "status": "active",
+  "id": "0x87b6c94c435F6e49789ad34FAf0d048F2D9043a2"
+}

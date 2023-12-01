@@ -1,0 +1,8 @@
+{
+  "name": "Mai Stablecoin",
+  "symbol": "MAI",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0xbf1aeA8670D2528E08334083616dD9C5F3B087aE/logo.png",
+  "status": "active",
+  "id": "0xbf1aeA8670D2528E08334083616dD9C5F3B087aE"
+}

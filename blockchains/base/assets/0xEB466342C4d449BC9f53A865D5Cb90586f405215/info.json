@@ -1,0 +1,8 @@
+{
+  "name": "Axelar USDC",
+  "symbol": "axlUSDC",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0xEB466342C4d449BC9f53A865D5Cb90586f405215/logo.png",
+  "status": "active",
+  "id": "0xEB466342C4d449BC9f53A865D5Cb90586f405215"
+}

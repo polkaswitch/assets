@@ -1,0 +1,8 @@
+{
+  "name": "Axelar Wrapped FIL",
+  "symbol": "axlFIL",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0x5E2Cf56A562b1bDD32ec26315063074ADC420C73/logo.png",
+  "status": "active",
+  "id": "0x5E2Cf56A562b1bDD32ec26315063074ADC420C73"
+}

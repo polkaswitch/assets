@@ -1,0 +1,8 @@
+{
+  "name": "Axelar Wrapped FTM",
+  "symbol": "axlFTM",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0x64C09d32E8452CC0453D2EfeED8c9a16421b1ec8/logo.png",
+  "status": "active",
+  "id": "0x64C09d32E8452CC0453D2EfeED8c9a16421b1ec8"
+}

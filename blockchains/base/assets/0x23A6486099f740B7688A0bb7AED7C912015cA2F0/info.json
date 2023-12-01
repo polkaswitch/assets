@@ -1,0 +1,8 @@
+{
+  "name": "Axelar Wrapped BNB",
+  "symbol": "axlBNB",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0x23A6486099f740B7688A0bb7AED7C912015cA2F0/logo.png",
+  "status": "active",
+  "id": "0x23A6486099f740B7688A0bb7AED7C912015cA2F0"
+}

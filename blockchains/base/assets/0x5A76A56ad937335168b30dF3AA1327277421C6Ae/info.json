@@ -1,0 +1,8 @@
+{
+  "name": "Vela Token",
+  "symbol": "VELA",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0x5A76A56ad937335168b30dF3AA1327277421C6Ae/logo.png",
+  "status": "active",
+  "id": "0x5A76A56ad937335168b30dF3AA1327277421C6Ae"
+}

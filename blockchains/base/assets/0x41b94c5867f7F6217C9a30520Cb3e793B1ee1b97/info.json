@@ -1,0 +1,8 @@
+{
+  "name": "Axelar bridged TIA",
+  "symbol": "axlTIA",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x41b94c5867f7F6217C9a30520Cb3e793B1ee1b97/logo.png",
+  "status": "active",
+  "id": "0x41b94c5867f7F6217C9a30520Cb3e793B1ee1b97"
+}
