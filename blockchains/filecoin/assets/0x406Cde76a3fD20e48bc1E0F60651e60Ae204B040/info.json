@@ -1,0 +1,8 @@
+{
+  "name": "Axelar Wrapped FRAX",
+  "symbol": "axlFRAX",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/filecoin/0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040/logo.png",
+  "status": "active",
+  "id": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040"
+}

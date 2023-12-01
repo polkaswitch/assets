@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped MNT",
+  "symbol": "WMNT",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/mantle/assets/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
+  "status": "active",
+  "id": "0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8"
+}

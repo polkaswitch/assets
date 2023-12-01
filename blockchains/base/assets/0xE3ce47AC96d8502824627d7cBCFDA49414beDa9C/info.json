@@ -1,0 +1,8 @@
+{
+  "name": "Axelar Wrapped MATIC",
+  "symbol": "axlMATIC",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0xE3ce47AC96d8502824627d7cBCFDA49414beDa9C/logo.png",
+  "status": "active",
+  "id": "0xE3ce47AC96d8502824627d7cBCFDA49414beDa9C"
+}

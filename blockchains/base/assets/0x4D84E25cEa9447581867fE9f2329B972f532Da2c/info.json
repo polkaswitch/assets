@@ -1,0 +1,8 @@
+{
+  "name": "Axelar Wrapped BUSD",
+  "symbol": "axlBUSD",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0x4D84E25cEa9447581867fE9f2329B972f532Da2c/logo.png",
+  "status": "active",
+  "id": "0x4D84E25cEa9447581867fE9f2329B972f532Da2c"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Lido Liquid staked wrapped ETH",
+  "symbol": "wstETH",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452/logo.png",
+  "status": "active",
+  "id": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452"
+}

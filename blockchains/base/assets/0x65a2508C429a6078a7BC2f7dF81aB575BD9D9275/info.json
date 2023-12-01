@@ -1,0 +1,8 @@
+{
+  "name": "DAI+ Stablecoin",
+  "symbol": "DAI+",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275/logo.png",
+  "status": "active",
+  "id": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275"
+}

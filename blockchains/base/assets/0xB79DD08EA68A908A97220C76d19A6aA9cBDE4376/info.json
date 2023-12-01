@@ -1,0 +1,8 @@
+{
+  "name": "USD+ Stablecoin",
+  "symbol": "USD+",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376/logo.png",
+  "status": "active",
+  "id": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376"
+}

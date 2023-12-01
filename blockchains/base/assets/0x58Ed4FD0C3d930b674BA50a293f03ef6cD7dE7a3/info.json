@@ -1,0 +1,8 @@
+{
+  "name": "ArbiDex Token",
+  "symbol": "ARX",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0x58Ed4FD0C3d930b674BA50a293f03ef6cD7dE7a3/logo.png",
+  "status": "active",
+  "id": "0x58Ed4FD0C3d930b674BA50a293f03ef6cD7dE7a3"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Axelar Wrapped KNC",
+  "symbol": "axlKNC",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/assets/0xB448eC505C924944ca8B2C55EF05c299eE0781df/logo.png",
+  "status": "active",
+  "id": "0xB448eC505C924944ca8B2C55EF05c299eE0781df"
+}
