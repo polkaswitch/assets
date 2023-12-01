@@ -1,0 +1,8 @@
+{
+  "name": "Axelar Wrapped WBTC",
+  "symbol": "axlWBTC",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/scroll/assets/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad/logo.png",
+  "status": "active",
+  "id": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad"
+}
