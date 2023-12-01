@@ -1,0 +1,8 @@
+{
+  "name": "Mantle",
+  "symbol": "MNT",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/mantle/assets/0x0000000000000000000000000000000000000000/logo.png",
+  "status": "active",
+  "id": "0x0000000000000000000000000000000000000000"
+}

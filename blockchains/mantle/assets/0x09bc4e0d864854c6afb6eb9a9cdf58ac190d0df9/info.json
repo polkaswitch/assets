@@ -1,0 +1,8 @@
+{
+  "name": "USDCoin",
+  "symbol": "USDC",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/mantle/assets/0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9/logo.png",
+  "status": "active",
+  "id": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9"
+}

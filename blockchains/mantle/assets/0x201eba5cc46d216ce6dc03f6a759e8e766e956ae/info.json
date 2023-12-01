@@ -1,0 +1,8 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/mantle/assets/0x201eba5cc46d216ce6dc03f6a759e8e766e956ae/logo.png",
+  "status": "active",
+  "id": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae"
+}

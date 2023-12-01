@@ -1,0 +1,8 @@
+{
+  "name": "Ondo U.S. Dollar Yield",
+  "symbol": "USDY",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/mantle/assets/0x5be26527e817998a7206475496fde1e68957c5a6/logo.png",
+  "status": "active",
+  "id": "0x5be26527e817998a7206475496fde1e68957c5a6"
+}

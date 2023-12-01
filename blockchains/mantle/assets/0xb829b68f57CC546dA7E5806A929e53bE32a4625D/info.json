@@ -1,0 +1,8 @@
+{
+  "name": "Axelar Wrapped ETH",
+  "symbol": "axlETH",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/mantle/assets/0xb829b68f57CC546dA7E5806A929e53bE32a4625D/logo.png",
+  "status": "active",
+  "id": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D"
+}

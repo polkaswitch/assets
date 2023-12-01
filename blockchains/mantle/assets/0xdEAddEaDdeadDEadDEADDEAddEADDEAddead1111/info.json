@@ -1,0 +1,8 @@
+{
+  "name": "Mantle Bridged ETH",
+  "symbol": "WETH",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/mantle/assets/0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111/logo.png",
+  "status": "active",
+  "id": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
+}

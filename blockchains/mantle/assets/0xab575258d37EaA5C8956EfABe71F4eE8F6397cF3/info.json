@@ -1,0 +1,8 @@
+{
+  "name": "Mantle USD",
+  "symbol": "mUSD",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/mantle/assets/0xab575258d37EaA5C8956EfABe71F4eE8F6397cF3/logo.png",
+  "status": "active",
+  "id": "0xab575258d37EaA5C8956EfABe71F4eE8F6397cF3"
+}
