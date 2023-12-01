@@ -1,0 +1,8 @@
+{
+  "name": "Wrapped FIL",
+  "symbol": "WFIL",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/filecoin/0x60E1773636CF5E4A227d9AC24F20fEca034ee25A/logo.png",
+  "status": "active",
+  "id": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A"
+}

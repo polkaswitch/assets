@@ -1,0 +1,8 @@
+{
+  "name": "Axelar Wrapped WMAI",
+  "symbol": "axlWMAI",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/polkaswitch/assets/master/blockchains/base/filecoin/0x88DfaAABaf06f3a41D2606EA98BC8edA109AbeBb/logo.png",
+  "status": "active",
+  "id": "0x88DfaAABaf06f3a41D2606EA98BC8edA109AbeBb"
+}
